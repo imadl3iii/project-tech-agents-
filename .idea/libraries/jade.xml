@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jade">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../T-agent/Tech-agent/TPAgent2019 2020  Documentation/jade-all-3.6/JADE-bin-3.6/jade/lib/jade.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../T-agent/Tech-agent/TPAgent2019 2020  Documentation/jade-all-3.6/JADE-bin-3.6/jade/lib/commons-codec/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../T-agent/Tech-agent/TPAgent2019 2020  Documentation/jade-all-3.6/JADE-bin-3.6/jade/lib/http.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../T-agent/Tech-agent/TPAgent2019 2020  Documentation/jade-all-3.6/JADE-bin-3.6/jade/lib/iiop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../T-agent/Tech-agent/TPAgent2019 2020  Documentation/jade-all-3.6/JADE-bin-3.6/jade/lib/jadeTools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
